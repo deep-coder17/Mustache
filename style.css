@@ -1,0 +1,18 @@
+#title{
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 140, 255);
+    width: 300px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    height: 50px;
+}
+.hi{
+    width: 300px;
+    font-family: 'Permanent Marker', cursive;
+    height: 50px;
+    background-color: rgb(105, 175, 231);
+}
+canvas{
+    border: 2px dashed goldenrod;
+}
